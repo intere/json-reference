@@ -1,0 +1,10 @@
+{
+	"name": "phantom.app",
+	"description": "PhantomJS headless cache generation using Express",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"express": "3.0",
+		"phantomjs": "1.9.1-0"
+	}
+}
