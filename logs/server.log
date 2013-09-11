@@ -1,1 +1,17 @@
 Mon Sep 09 2013 22:06:12 GMT-0600 (MDT) [SERVER]: Server Started
+Mon Sep 09 2013 23:01:15 GMT-0600 (MDT) [SERVER]: Server Started
+Mon Sep 09 2013 23:02:40 GMT-0600 (MDT) [SERVER]: cache miss: '/Users/einternicola/code/json-reference/json-cache/favicon.ico', building cache...
+Mon Sep 09 2013 23:02:42 GMT-0600 (MDT) [SERVER]: cache hit: '/Users/einternicola/code/json-reference/json-cache/test.json', Responding with 200
+Mon Sep 09 2013 23:24:07 GMT-0600 (MDT) [SERVER]: cache hit: '/Users/einternicola/code/json-reference/json-cache/test.json', Responding with 200
+Mon Sep 09 2013 23:30:48 GMT-0600 (MDT) [SERVER]: Server Started
+Mon Sep 09 2013 23:32:28 GMT-0600 (MDT) [SERVER]: cache hit: '/Users/einternicola/code/json-reference/json-cache/test.json', Responding with 200
+Mon Sep 09 2013 23:32:28 GMT-0600 (MDT) [SERVER]: cache hit: '/Users/einternicola/code/json-reference/json-cache/test.json', Responding with 200
+Mon Sep 09 2013 23:32:32 GMT-0600 (MDT) [SERVER]: cache hit: '/Users/einternicola/code/json-reference/json-cache/test.json', Responding with 200
+Mon Sep 09 2013 23:32:56 GMT-0600 (MDT) [SERVER]: Server Started
+Mon Sep 09 2013 23:32:58 GMT-0600 (MDT) [SERVER]: cache hit: '/Users/einternicola/code/json-reference/json-cache/test.json', Responding with 200
+Mon Sep 09 2013 23:33:01 GMT-0600 (MDT) [SERVER]: cache hit: '/Users/einternicola/code/json-reference/json-cache/test.json', Responding with 200
+Mon Sep 09 2013 23:34:05 GMT-0600 (MDT) [SERVER]: cache hit: '/Users/einternicola/code/json-reference/json-cache/test.json', Responding with 200
+Mon Sep 09 2013 23:34:21 GMT-0600 (MDT) [SERVER]: cache hit: '/Users/einternicola/code/json-reference/json-cache/test.json', Responding with 200
+Mon Sep 09 2013 23:34:41 GMT-0600 (MDT) [SERVER]: cache hit: '/Users/einternicola/code/json-reference/json-cache/test.json', Responding with 200
+Mon Sep 09 2013 23:35:20 GMT-0600 (MDT) [SERVER]: cache hit: '/Users/einternicola/code/json-reference/json-cache/test.json', Responding with 200
+Mon Sep 09 2013 23:35:20 GMT-0600 (MDT) [SERVER]: cache hit: '/Users/einternicola/code/json-reference/json-cache/test.json', Responding with 200
